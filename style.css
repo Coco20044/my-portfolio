@@ -10,7 +10,7 @@ html {
 
 body {
     font-family: "DM Sans", sans-serif;
-    
+    padding-top: 80px;
     color: #171717;
     overflow-x: hidden;
    background-image: url(images/397935317068306333.jfif);
