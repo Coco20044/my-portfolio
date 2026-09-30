@@ -10,9 +10,12 @@ html {
 
 body {
     font-family: "DM Sans", sans-serif;
-    background: #f4f1eb;
+    
     color: #171717;
     overflow-x: hidden;
+   background-image: url(images/397935317068306333.jfif);
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 
 body.no-scroll {
